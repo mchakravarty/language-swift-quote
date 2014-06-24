@@ -1,4 +1,6 @@
-language-swift-quote
-====================
+Quasiquotation for Swift in Haskell
+===================================
 
-Quasiquotation` for Swift in Haskell
+This library will eventually provide quasiquotation support for Swift in Template Haskell.
+
+
